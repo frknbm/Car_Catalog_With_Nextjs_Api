@@ -38,6 +38,29 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Project Pictures
 
+
 ![1a](https://github.com/frknbm/Car_Catalog_With_Nextjs_Api/assets/99149570/707957a4-cccc-4574-950d-71a48bb32b69)
 
 
+![1b](https://github.com/frknbm/Car_Catalog_With_Nextjs_Api/assets/99149570/788b60bf-b80a-442b-82e5-cc371e526aa0)
+
+
+![1c](https://github.com/frknbm/Car_Catalog_With_Nextjs_Api/assets/99149570/e4cfbaa6-8afb-4dfc-89a4-c8e05051f60e)
+
+
+![1d](https://github.com/frknbm/Car_Catalog_With_Nextjs_Api/assets/99149570/e8613cd6-1086-4030-a014-e9ab9bb27f95)
+
+
+![1e](https://github.com/frknbm/Car_Catalog_With_Nextjs_Api/assets/99149570/17fb897c-9e27-40e8-94eb-6cd0dc92ca39)
+
+
+![1f](https://github.com/frknbm/Car_Catalog_With_Nextjs_Api/assets/99149570/c602c79f-702f-4860-ac83-df9340aae6f0)
+
+
+![1g](https://github.com/frknbm/Car_Catalog_With_Nextjs_Api/assets/99149570/13a78b9b-c3ac-4e47-bfcd-c29c4f6b8348)
+
+
+![1i](https://github.com/frknbm/Car_Catalog_With_Nextjs_Api/assets/99149570/c189c19a-baf8-413a-864a-d7fbd8e29a1e)
+
+
+![1k](https://github.com/frknbm/Car_Catalog_With_Nextjs_Api/assets/99149570/0e4cfcb6-2aac-42c7-9af9-cd8bb9580565)
